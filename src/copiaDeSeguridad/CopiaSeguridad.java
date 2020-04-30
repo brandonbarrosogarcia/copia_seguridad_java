@@ -8,7 +8,7 @@ import java.nio.file.StandardCopyOption;
 
 /**
  *
- * @author brandon barroso garcia
+ * @author Brandon Abel Barroso Garcia
  */
 public class CopiaSeguridad {
 

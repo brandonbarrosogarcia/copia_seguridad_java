@@ -53,7 +53,7 @@ public class CopiaSeguridad {
     }
 
     /**
-     * Copia los directorios
+     * Copia los directorios de forma recursiva
      *
      * @param src File con la ruta del directorio a realizar la copia
      * @param dest File con la ruta de destino de la copia
